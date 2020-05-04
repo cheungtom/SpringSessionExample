@@ -25,5 +25,11 @@ The program IP right is surely belongs to author of the above link.
 - Command line, run: 
    mvn clean install
 
+- Import into Eclipse:
+  Command line, run mvn eclipse:eclipse
+
+  Import Maven project into Eclipse
+
+
 2. AWS ElastiCache Redis setup reference:  
 https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Clusters.Create.CON.Redis.html
